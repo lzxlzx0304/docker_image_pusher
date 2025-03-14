@@ -1,10 +1,2 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-mintplexlabs/anythingllm
-ollama/ollama:0.6.0
-ollama/ollama:0.5.9
-ghcr.io/open-webui/open-webui:0.5.20
+ghcr.io/open-webui/open-webui:ollama
