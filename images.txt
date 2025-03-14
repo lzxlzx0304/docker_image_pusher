@@ -7,3 +7,4 @@ xhofe/alist:latest
 mintplexlabs/anythingllm
 ollama/ollama
 open-webui/open-webui
+ollama/ollama:0.5.9
