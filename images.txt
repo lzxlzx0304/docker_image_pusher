@@ -5,5 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mintplexlabs/anythingllm
-ollama/ollama
+ollama/ollama:0.6.0
 ollama/ollama:0.5.9
