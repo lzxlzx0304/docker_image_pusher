@@ -1,2 +1,2 @@
-#支持指定架构
-ghcr.io/open-webui/open-webui:ollama
+vllm/vllm-openai:0.7.3
+vllm/vllm-openai:0.5.1
