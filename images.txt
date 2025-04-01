@@ -1,1 +1,1 @@
-nvidia/cuda:12.8.1-cudnn-devel-oraclelinux8
+nvidia/cuda:11.1.1-cudnn8-runtime
