@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.2.2
+nvidia/cuda:11.8-base
