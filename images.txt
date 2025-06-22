@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.9.0.1
+hiyouga/llamafactory:0.9.4
