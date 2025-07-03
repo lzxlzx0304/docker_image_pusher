@@ -1,2 +1,1 @@
-vllm/vllm-openai:v0.9.1
-xprobe/xinference:v1.7.1
+xprobe/xinference:v1.7.1.post1
