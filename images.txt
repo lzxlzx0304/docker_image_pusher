@@ -1,1 +1,2 @@
-kalilinux/kali-rolling:amd64
+henrygd/beszel:0.12.3
+henrygd/beszel-agent:0.12.3
