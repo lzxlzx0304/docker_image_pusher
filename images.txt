@@ -1,2 +1,8 @@
-henrygd/beszel:0.12.3
-henrygd/beszel-agent:0.12.3
+neo4j:2025.07.1-community-bullseye
+neo4j:2025.07.1-enterprise-bullseye
+neo4j:2025.07.1-community-ubi9
+neo4j:2025.07.1-enterprise-ubi9
+neo4j:5.26.10-community-bullseye
+neo4j:5.26.10-enterprise-bullseye
+neo4j:5.26.10-community-ubi9
+neo4j:5.26.10-enterprise-ubi9
