@@ -1,11 +1,11 @@
-elasticsearch:8.11.3
-hub.icert.top/opensearchproject/opensearch:2.19.1
-infiniflow/infinity:v0.6.0-dev5
-infiniflow/sandbox-executor-manager:latest
-mysql:8.0.39
-quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
-valkey/valkey:8
-infiniflow/ragflow:v0.20.1-slim
-edwardelric233/ragflow:oc9
-infiniflow/sandbox-base-python:latest
-infiniflow/sandbox-base-nodejs:latest
+- mysql:8.4.5
+- bitnami/redis:8.0
+- apache/rocketmq:5.3.2 
+- bitnami/elasticsearch:8.18.0
+- minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
+- bitnami/etcd:3.5
+- milvusdb/milvus:v2.5.10
+- nsqio/nsq:v1.2.1
+- minio/mc:RELEASE.2025-05-21T01-59-54Z-cpuv1
+- arigaio/atlas:0.35.0-community-alpine
+- opencoze/opencoze:latest
