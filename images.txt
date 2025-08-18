@@ -1,1 +1,1 @@
-dpanel/dpanel:1.8.0
+dpanel/dpanel:v1.8.0
