@@ -1,1 +1,1 @@
-portainer/portainer-ce:2.33.1-linux-arm64-alpine --platform=arm64
+portainer/portainer-ce:2.33.1-linux-arm64-alpine --platform=linux/arm64
