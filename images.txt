@@ -1,1 +1,1 @@
-hiyouga/LlamaFactory:latest
+hiyouga/LlamaFactory:v0.9.4
