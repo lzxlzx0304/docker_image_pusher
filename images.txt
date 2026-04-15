@@ -1,1 +1,1 @@
-anythingllm:latest
+hiyouga/LlamaFactory:latest
