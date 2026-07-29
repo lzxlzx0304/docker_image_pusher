@@ -1,1 +1,1 @@
-hiyouga/LlamaFactory:latest
+ollama/ollama:latest
