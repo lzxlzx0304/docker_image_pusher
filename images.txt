@@ -1,1 +1,12 @@
-xprobe/xinference:v3.1.0
+langgenius/dify-api:1.16.1
+langgenius/dify-web:1.16.1
+langgenius/dify-agent-backend:1.16.1
+langgenius/dify-agent-local-sandbox:1.16.1
+langgenius/dify-plugin-daemon:0.6.3-local
+langgenius/dify-sandbox:0.2.15
+redis:6-alpine
+postgres:15-alpine
+nginx:latest
+busybox:latest
+ubuntu/squid:latest
+semitechnologies/weaviate:1.27.0
