@@ -1,1 +1,1 @@
-alpine
+xprobe/xinference:v3.1.0
